@@ -1,6 +1,6 @@
-# 🧩 100 Desafios de Expressões Regulares (Regex)
+# 🧩 Desafios de Expressões Regulares (Regex)
 
-Bem-vindo(a)! 👋 Este repositório reúne uma coleção de **100 desafios práticos de expressões regulares (regex)**, organizados por nível de dificuldade e aplicabilidade. A proposta é oferecer uma jornada progressiva para quem deseja dominar regex de forma prática, divertida e desafiadora.
+Bem-vindo(a)! 👋 Este repositório reúne uma coleção de **desafios práticos de expressões regulares (regex)**, organizados por nível de dificuldade e aplicabilidade. A proposta é oferecer uma jornada progressiva para quem deseja dominar regex de forma prática, divertida e desafiadora.
 
 ---
 
