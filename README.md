@@ -40,7 +40,7 @@ Para aproveitar ao máximo:
 
 ## 🤖 Créditos
 
-Este projeto foi idealizado por **Diogo Luxa** e desenvolvido com o apoio de uma IA (Microsoft Copilot), que gerou os 100 desafios com foco em aprendizado progressivo e aplicabilidade prática.
+Este projeto foi idealizado por **Diogo Luxa** e desenvolvido com o apoio de uma IA (Microsoft Copilot), que gerou diversos desafios com foco em aprendizado progressivo e aplicabilidade prática.
 
 Todos os desafios foram criados do zero, com o objetivo de oferecer uma abordagem moderna e acessível ao estudo de expressões regulares.
 
