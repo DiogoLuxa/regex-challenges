@@ -4,6 +4,14 @@ Bem-vindo(a)! 👋 Este repositório reúne uma coleção de **desafios prático
 
 ---
 
+## 📂 Sumário dos Desafios
+
+Acesse a lista completa de desafios e soluções:
+
+- [Ver Sumário Completo](./SUMARIO.md)
+
+---
+
 ## 📌 Objetivo
 
 Este projeto tem como finalidade:
