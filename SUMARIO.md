@@ -29,8 +29,3 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 
 📌 Os desafios são lançados diariamente.  
 🔍 Tente resolver antes de consultar a resposta!
-
----
-
-**Autor:** Diogo  
-**Organizado com apoio da IA Microsoft Copilot**
