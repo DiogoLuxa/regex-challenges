@@ -9,7 +9,7 @@
 ## 🧪 Expressão Regular
 
 ```regex
-^[0-9]+$
+^\d+$
 ```
 
 ---
