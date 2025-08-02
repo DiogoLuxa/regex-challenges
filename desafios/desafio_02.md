@@ -51,6 +51,7 @@ Adapte a expressão para aceitar **números decimais**, como `12.34` ou `0,99`.
 
 ---
 
-#### ➡️ [Próximo desafio → Desafio 03](./desafio_03.md)
+- [Voltar ao Sumário](../SUMARIO.md)  
+- [Próximo desafio → Desafio 03](./desafio_03.md)
 
 🔖 _Tags: regex, iniciante, validação, números, dígitos, expressão regular_

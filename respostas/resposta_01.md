@@ -33,7 +33,8 @@ Inclui o intervalo Unicode `À-ÿ`, que cobre a maioria dos caracteres latinos a
 
 ---
 
-#### 📎 [Voltar ao Desafio 01](../desafios/desafio_01.md)  
-#### ➡️ [Próximo desafio → Desafio 02](../desafios/desafio_02.md)
+- [Voltar ao Sumário](../SUMARIO.md)  
+- [Voltar ao Desafio 01](../desafios/desafio_01.md)  
+- [Próximo desafio → Desafio 02](../desafios/desafio_02.md)
 
 🔖 _Tags: regex, iniciante, letras, acentos, validação, expressão regular_

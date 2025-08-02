@@ -36,7 +36,8 @@ A parte decimal é opcional, mas se presente, deve vir após um número inteiro.
 
 ---
 
-#### 📎 [Voltar ao Desafio 02](../desafios/desafio_02.md)  
-#### ➡️ [Próximo desafio → Desafio 03](../desafios/desafio_03.md)
+- [Voltar ao Sumário](../SUMARIO.md)  
+- [Voltar ao Desafio 02](../desafios/desafio_02.md)  
+- [Próximo desafio → Desafio 03](../desafios/desafio_03.md)
 
 🔖 _Tags: regex, iniciante, números, decimais, validação, expressão regular_
