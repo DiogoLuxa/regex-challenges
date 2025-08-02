@@ -51,13 +51,6 @@ Adapte a expressão para aceitar **letras com acentos** (como `á`, `ç`, `ê`) 
 
 ---
 
-➡️ [Próximo desafio → Desafio 02](./desafio_02.md)
-
----
-
-**Autor:** Diogo  
-**Desafio gerado com apoio da IA Microsoft Copilot**
-
----
+#### ➡️ [Próximo desafio → Desafio 02](./desafio_02.md)
 
 🔖 _Tags: regex, iniciante, validação, letras, expressão regular_
