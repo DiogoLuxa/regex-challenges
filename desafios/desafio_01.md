@@ -1,5 +1,7 @@
 # 🧩 Desafio 01 — Apenas Letras
 
+- [Voltar ao Sumário](../SUMARIO.md)  
+
 ### 📘 Nível: Iniciante  
 ### 🔹 Categoria: Validação Simples
 
@@ -51,7 +53,6 @@ Adapte a expressão para aceitar **letras com acentos** (como `á`, `ç`, `ê`) 
 
 ---
 
-- [Voltar ao Sumário](../SUMARIO.md)  
 - [Próximo desafio → Desafio 02](./desafio_02.md)
 
 🔖 _Tags: regex, iniciante, validação, letras, expressão regular_

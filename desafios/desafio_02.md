@@ -1,5 +1,7 @@
 # 🧩 Desafio 02 — Apenas Números
 
+- [Voltar ao Sumário](../SUMARIO.md)  
+
 ### 📘 Nível: Iniciante  
 ### 🔹 Categoria: Validação Simples
 
@@ -51,7 +53,7 @@ Adapte a expressão para aceitar **números decimais**, como `12.34` ou `0,99`.
 
 ---
 
-- [Voltar ao Sumário](../SUMARIO.md)  
+- [Desafio anterior → Desafio 01](./desafio_01.md)  
 - [Próximo desafio → Desafio 03](./desafio_03.md)
 
 🔖 _Tags: regex, iniciante, validação, números, dígitos, expressão regular_

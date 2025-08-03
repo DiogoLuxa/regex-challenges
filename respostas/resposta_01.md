@@ -1,5 +1,7 @@
 # ✅ Resposta — Desafio 01
 
+- [Voltar ao Sumário](../SUMARIO.md)  
+
 ### 🧩 Apenas Letras  
 🔹 Nível: Iniciante  
 🔹 Categoria: Validação Simples
@@ -33,7 +35,6 @@ Inclui o intervalo Unicode `À-ÿ`, que cobre a maioria dos caracteres latinos a
 
 ---
 
-- [Voltar ao Sumário](../SUMARIO.md)  
 - [Voltar ao Desafio 01](../desafios/desafio_01.md)  
 - [Próximo desafio → Desafio 02](../desafios/desafio_02.md)
 
