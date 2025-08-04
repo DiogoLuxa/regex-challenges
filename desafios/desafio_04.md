@@ -1,27 +1,62 @@
-# 🧪 Desafio Regex 04 – *(em breve)*
+# 🧩 Desafio 04 — Começa com "Olá"
 
 - [Voltar ao Sumário](../SUMARIO.md)  
 
----
-
-## 🚧 Em construção...
-
-Este desafio de **expressões regulares** ainda está sendo preparado com carinho.  
-Em breve você encontrará aqui:
-
-- 🧩 Um novo enunciado focado em Regex  
-- 🧠 Explicações detalhadas sobre os padrões utilizados  
-- ✅ Exemplos práticos para testar e adaptar conforme sua necessidade  
+### 📘 Nível: Iniciante  
+### 🔹 Categoria: Validação Simples
 
 ---
 
-## 🔔 Fique ligado!
+## 🎯 Objetivo
 
-Os desafios são lançados **diariamente**.  
-Enquanto isso, que tal revisar os anteriores ou tentar criar sua própria expressão regular?
-
-- [Desafio anterior → Regex 03](./desafio_03.md)  
+Criar uma expressão regular que verifique se uma string **começa com a palavra "Olá"**, respeitando acentuação e posição.
 
 ---
 
-> 💬 Tem uma ideia de desafio com Regex? Compartilhe com a comunidade ou envie sugestões para enriquecer o projeto!
+## 📌 Requisitos
+
+- A string deve **iniciar com "Olá"**, exatamente nessa grafia.    
+- Deve respeitar o acento na letra "á".  
+- Não pode conter caracteres ou números após "Olá".  
+- Não deve aceitar variações como "olá", "OLÁ", "OlÁ", etc.
+
+---
+
+## 📥 Exemplos de Entrada
+
+✅ `Olá, tudo bem?`  
+✅ `Olá mundo`  
+❌ `Olá123` — contém número após "Olá"
+❌ `olá, tudo bem?` — sem letra maiúscula  
+❌ `Oi, tudo bem?` — não começa com "Olá"  
+❌ `Tudo começa com Olá` — "Olá" não está no início
+❌ `Oláá` — contém letra repetida
+
+---
+
+## 💡 Dica
+
+Use a **âncora de início (`^`)** para garantir que "Olá" esteja no começo da string.  
+Lembre-se de **escapar caracteres especiais**, se necessário.
+
+---
+
+## 🧠 Desafio Extra
+
+Adapte a expressão para aceitar **"Olá" com letras maiúsculas ou minúsculas**, como `olá`, `OLÁ`, `OlÁ`, etc.
+
+---
+
+## ✍️ Solução
+
+> [Ver solução](../respostas/resposta_04.md) 🔍  
+> Tente resolver por conta própria antes de consultar! 😉
+
+---
+
+- [Desafio anterior → Desafio 03](./desafio_03.md)  
+- [Próximo desafio → Desafio 05](./desafio_05.md)
+
+---
+
+🔖 _Tags: regex, iniciante, validação, início, olá, expressão regular_
