@@ -19,7 +19,7 @@
 ## 🔍 Explicação
 
 - `^` garante que a string **comece** com "olá"  
-- `olá` é a palavra exata que queremos validar (minúscula e com acento)  
+- `Olá` é a palavra exata que queremos validar  
 - `(?![a-zA-ZÀ-ÿ]|\d)` é uma negação lookahead que impede letras latinas (inclusive acentuadas) ou dígitos imediatamente após "olá"
     - Isso bloqueia variações como oláá, oláabc, oláç, olá1, etc.
     - Permite espaços, pontuação, símbolos e fim de string após "olá
