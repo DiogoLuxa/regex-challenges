@@ -15,7 +15,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 04  | Começa com "Olá"                      | [Desafio 04](./desafios/desafio_04.md)    |
 | 05  | Termina com "fim"                     | [Desafio 05](./desafios/desafio_05.md)    |
 | 06  | Validar um CEP Brasileiro             | [Desafio 06](./desafios/desafio_06.md)    |
-| 07  | *(em breve)*                          | *(aguarde)*                                |
+| 07  | Validar um CPF com ou sem pontuação   | [Desafio 07](./desafios/desafio_07.md)    |
+| 08  | *(em breve)*                          | *(aguarde)*                               |
 
 ---
 
@@ -29,7 +30,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 04  | Começa com "Olá"                      | [Resposta 04](./respostas/resposta_04.md)  |
 | 05  | Termina com "fim"                     | [Resposta 05](./respostas/resposta_05.md)  |
 | 06  | Validar um CEP Brasileiro             | [Resposta 06](./respostas/resposta_06.md)  |
-| 07  | *(em breve)*                          | *(aguarde)*                                |
+| 07  | Validar um CPF com ou sem pontuação   | [Resposta 07](./respostas/resposta_07.md)  |
+| 08  | *(em breve)*                          | *(aguarde)*                                |
 
 ---
 
