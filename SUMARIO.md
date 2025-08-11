@@ -16,7 +16,7 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 05  | Termina com "fim"                     | [Desafio 05](./desafios/desafio_05.md)    |
 | 06  | Validar um CEP Brasileiro             | [Desafio 06](./desafios/desafio_06.md)    |
 | 07  | Validar um CPF com ou sem pontuação   | [Desafio 07](./desafios/desafio_07.md)    |
-| 08  | *(em breve)*                          | *(aguarde)*                               |
+| 08  | Verificar se contém a palavra "regex" | [Desafio 08](./desafios/desafio_08.md)    |
 
 ---
 
@@ -31,7 +31,7 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 05  | Termina com "fim"                     | [Resposta 05](./respostas/resposta_05.md)  |
 | 06  | Validar um CEP Brasileiro             | [Resposta 06](./respostas/resposta_06.md)  |
 | 07  | Validar um CPF com ou sem pontuação   | [Resposta 07](./respostas/resposta_07.md)  |
-| 08  | *(em breve)*                          | *(aguarde)*                                |
+| 08  | Verificar se contém a palavra "regex" | [Resposta 08](./respostas/resposta_08.md)  |
 
 ---
 
