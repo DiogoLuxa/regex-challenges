@@ -42,10 +42,18 @@
 ## 🧠 Desafio Extra — Aceitar datas dentro de frases
 
 ```regex
-\b\d{2}/\d{2}/\d{4}\b
+(?<=\s)\b\d{2}/\d{2}/\d{4}\b(?=[\s])
 ```
 
-🔍 Essa versão usa **delimitadores de palavra (`\b`)** para encontrar datas **dentro de frases**, sem exigir que a string seja apenas a data:
+## 🔍 Explicação
+
+- `(?<=\s)` **Lookbehind positivo**: garante que antes da data exista um **espaço em branco** (como um espaço, tabulação ou quebra de linha).
+- `\b` **Delimitador de palavra**: assegura que a data comece exatamente onde uma palavra começaria (evita capturar partes de palavras).
+- `\d{2}/\d{2}/\d{4}` corresponde a **dois dígitos**, uma barra, **dois dígitos**, outra barra, e **quatro dígitos** — ou seja, o padrão de data `dd/mm/aaaa`.
+- `\b` outro delimitador de palavra, marcando o fim da data.
+- `(?=\s)` **Lookahead positivo**: garante que depois da data também exista um **espaço em branco**.
+
+Essa expressão regular identifica datas no formato dd/mm/aaaa que estão isoladas por espaços dentro de um texto. Vamos destrinchar cada parte.
 
 ✅ Exemplos válidos:  
 - `Hoje é 01/01/2023`  
