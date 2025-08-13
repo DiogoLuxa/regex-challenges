@@ -18,7 +18,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 07  | Validar um CPF com ou sem pontuação      | [Desafio 07](./desafios/desafio_07.md)    |
 | 08  | Verificar se contém a palavra "regex"    | [Desafio 08](./desafios/desafio_08.md)    |
 | 09  | Validar uma data no formato `dd/mm/yyyy` | [Desafio 09](./desafios/desafio_09.md)    |
-| 10  | *(em breve)*                             | [Desafio 10](./desafios/desafio_10.md)    |
+| 10  | Verificar se contém apenas maiúsculas    | [Desafio 10](./desafios/desafio_10.md)    |
+| 11  | (*em breve*)                             | [Desafio 11](./desafios/desafio_11.md)    |
 
 ---
 
@@ -35,6 +36,7 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 07  | Validar um CPF com ou sem pontuação      | [Resposta 07](./respostas/resposta_07.md)  |
 | 08  | Verificar se contém a palavra "regex"    | [Resposta 08](./respostas/resposta_08.md)  |
 | 09  | Validar uma data no formato `dd/mm/yyyy` | [Resposta 09](./respostas/resposta_09.md)  |
+| 10  | Verificar se contém apenas maiúsculas    | [Resposta 10](./respostas/resposta_10.md)  |
 
 ---
 
